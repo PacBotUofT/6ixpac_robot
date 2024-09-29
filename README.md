@@ -1,2 +1,2 @@
 # 6ixpac_robot
-Sensor/motor code
+Repo for robot control functions
